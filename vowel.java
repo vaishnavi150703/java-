@@ -15,4 +15,4 @@ public class vowel {
         scanner.close();
     }
     
-}
+}  
